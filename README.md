@@ -11,7 +11,7 @@ Here Comes Black Blaze into play
 **Black Blaze-WEBfw** is a minimalistic web framework for python.
 
 0. Install Black Blaze-Webfw
-   ```
+   ```bash
    sushant@H4CK3R:~$ python -m pip install BlackBlazeFw
    ```
 
