@@ -11,4 +11,4 @@ def hello(response):
 def err404(response):
        response.status_code = 404
 
-app.setError(404, FileRenderer.template("error.html", {"error": 404}))
+app.setError(404, "Not Found")#FileRenderer.template("error.html", {"error": 404}))
