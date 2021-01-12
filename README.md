@@ -1,10 +1,10 @@
 *THIS IS CURRENTLY IN BETA*
 
-# web-fw
+# app-fw
 
 Hey Guys! Sushant Here,
 
-So Do You Need A *Fast*, *Lightweight* And *Reliable* Web Framework for your Next WebApp?
+So Do You Need A *Fast*, *Lightweight* And *Reliable* GUI Framework for your Next Desktop/App?
 
 Here Comes Black Blaze into play
 
